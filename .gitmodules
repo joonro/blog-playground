@@ -1,3 +1,6 @@
 [submodule "ko"]
 	path = ko
 	url = git@github.com:joonro/blog-ko.git
+[submodule "en"]
+	path = en
+	url = git@github.com:joonro/blog-en.git
